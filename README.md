@@ -1,5 +1,9 @@
 # TME Copilot
 
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-orange?style=for-the-badge)](https://github.com/Maksimovic26/TME-Copilot-Releases/releases/latest)
+
+[![Latest Release](https://img.shields.io/github/v/release/Maksimovic26/TME-Copilot-Releases?style=for-the-badge)](https://github.com/Maksimovic26/TME-Copilot-Releases/releases/latest)
+
 Windows application for TME product management and commercial workflows.
 
 ![TME Copilot Interface](assets/Interface.jpg)

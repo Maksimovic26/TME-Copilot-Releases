@@ -1,0 +1,10 @@
+*.env
+.env
+*.token
+*.secret
+*.key
+__pycache__/
+.venv/
+build/
+dist/
+*.pyc
